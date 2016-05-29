@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Maurine Dodge Photography]]></title>
         <description><![CDATA[Maurine Dodge Photography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/maurine-dodge-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 May 2016 03:17:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 29 May 2016 03:17:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/maurine-dodge-photography/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/02e1b64e-5739-4315-bd9d-f7cc42a668c1.jpg">]]></description>
+            <link>https://thegrid.ai/maurine-dodge-photography/c902c87b-0528-441c-9657-adb2f8b53114/index.html</link>
+            <guid isPermaLink="false">c902c87b-0528-441c-9657-adb2f8b53114</guid>
+            <pubDate>Sun, 29 May 2016 03:17:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6e62620-3a01-4f70-af5c-b8a077305eaa.jpg">]]></description>
-            <link>undefined96a42892-d652-4739-9ca9-cdf57687fac8/index.html</link>
+            <link>https://thegrid.ai/maurine-dodge-photography/96a42892-d652-4739-9ca9-cdf57687fac8/index.html</link>
             <guid isPermaLink="false">96a42892-d652-4739-9ca9-cdf57687fac8</guid>
             <pubDate>Sun, 29 May 2016 03:17:15 GMT</pubDate>
         </item>
