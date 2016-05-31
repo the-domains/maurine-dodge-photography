@@ -1,15 +1,15 @@
-layout_spectrum: 0.14417752344161272
-typography_spectrum: 0.437493187841028
+layout_spectrum: 0.5327274545561522
+typography_spectrum: 0.40808298788033426
 color:
-  brandStrength: 0.8895562768448144
-  lightness: 0.5558691632468253
-  saturation: 0.44428573292680085
-  rhythmicContrast: 0.4294218416325748
+  brandStrength: 0.7583279656246305
+  lightness: 0.5504666862543672
+  saturation: 0.01712459046393633
+  rhythmicContrast: 0.8315669083967805
   brandColors:
-    - '#36362C'
-    - '#5D917D'
-    - '#A8AD80'
-    - '#E6D4A7'
-    - '#825534'
+    - '#6C6E58'
+    - '#3E423A'
+    - '#417378'
+    - '#A4CFBE'
+    - '#F4F7D9'
 name: Maurine Dodge Photography
 logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2eb158b-a59e-40dd-862f-c323801e3c61.svg'
