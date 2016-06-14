@@ -1,18 +1,19 @@
-typography_spectrum: 0.4385554220061749
+typography_spectrum: 0.9068880355916917
 color:
-  brandStrength: 0.21321302163414657
-  lightness: 0.31606725859455764
-  saturation: 0.5356836738064885
-  rhythmicContrast: 0.3080756082199514
+  brandStrength: 0.13552720565348864
+  lightness: 0.5544030617456883
+  saturation: 0.8257049880921841
+  rhythmicContrast: 0.5028293305076659
   brandColors:
-    - '#FCFFF5'
-    - '#D1DBBD'
-    - '#91AA9D'
-    - '#3E606F'
-    - '#193441'
-layout_spectrum: 0.38243878656066954
+    - '#332532'
+    - '#644D52'
+    - '#F77A52'
+    - '#FF974F'
+    - '#A49A87'
+layout_spectrum: 0.6116342314053327
 analytics:
   google: UA-78600613-1
   facebook: '1788863521350364'
-logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2eb158b-a59e-40dd-862f-c323801e3c61.svg'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2eb158b-a59e-40dd-862f-c323801e3c61.svg
 name: Maurine Dodge Photography
