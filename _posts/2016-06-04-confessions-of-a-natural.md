@@ -27,10 +27,10 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.blurb.com/books/1373813-confessions-of-a-natural'
 title: Confessions of a "Natural"
-datePublished: '2016-06-04T00:54:53.159Z'
-dateModified: '2016-06-04T00:54:36.087Z'
-starred: false
+datePublished: '2016-07-06T22:42:40.757Z'
+dateModified: '2016-07-06T22:42:40.243Z'
 sourcePath: _posts/2016-06-04-confessions-of-a-natural.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
