@@ -4,7 +4,7 @@
         <description><![CDATA[Maurine Dodge Photography]]></description>
         <link>https://thegrid.ai/maurine-dodge-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jul 2016 01:07:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2016 01:08:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/maurine-dodge-photography/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/maurine-dodge-photography/1ebfe224-6f60-4ef3-9789-2a308b5310e4/index.html</link>
             <guid isPermaLink="false">1ebfe224-6f60-4ef3-9789-2a308b5310e4</guid>
             <pubDate>Wed, 06 Jul 2016 23:24:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Photography]]></title>
+            <description><![CDATA[<article><h1>Photography</h1></article>]]></description>
+            <link>http://goo.gl/vrHFps</link>
+            <guid isPermaLink="false">864287d9-7e48-4975-a100-b23f1245837e</guid>
+            <pubDate>Thu, 07 Jul 2016 01:08:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/maurine-dodge-photography/7c2d582a-0e98-45ff-914d-7e06fd24bf4a/index.html</link>
             <guid isPermaLink="false">7c2d582a-0e98-45ff-914d-7e06fd24bf4a</guid>
             <pubDate>Wed, 08 Jun 2016 05:42:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b039e06-f312-406d-9bc7-9471eca9e214.jpg">]]></description>
-            <link>https://thegrid.ai/maurine-dodge-photography/06975889-cf39-4e43-88ef-cb079a68c294/index.html</link>
-            <guid isPermaLink="false">06975889-cf39-4e43-88ef-cb079a68c294</guid>
-            <pubDate>Wed, 08 Jun 2016 05:42:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
