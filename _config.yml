@@ -1,4 +1,3 @@
-layout_spectrum: 0.24092386313714087
 typography_spectrum: 0.8122107966337353
 color:
   brandStrength: 0.13552720565348864
@@ -11,9 +10,14 @@ color:
     - '#F77A52'
     - '#FF974F'
     - '#A49A87'
+layout_spectrum: 0.24092386313714087
 analytics:
   google: UA-78600613-1
   facebook: '1788863521350364'
+author:
+  name: Maurine Dodge
+  email: silvatungfox@gmail.com
+  url: maurinedodgephotography.com
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2eb158b-a59e-40dd-862f-c323801e3c61.svg
 name: Maurine Dodge Photography
