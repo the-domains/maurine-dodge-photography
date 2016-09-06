@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Exploring the world ]]></title>
-        <description><![CDATA[Exploring the world ]]></description>
+        <title><![CDATA[Exploring the world and the people in it....]]></title>
+        <description><![CDATA[Exploring the world and the people in it....]]></description>
         <link>https://thegrid.ai/maurine-dodge-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Aug 2016 00:36:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2016 03:34:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/maurine-dodge-photography/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,48 @@
             <link>https://thegrid.ai/maurine-dodge-photography/d89bc533-56f2-4a3f-90da-2cef38266fbc/index.html</link>
             <guid isPermaLink="false">d89bc533-56f2-4a3f-90da-2cef38266fbc</guid>
             <pubDate>Thu, 07 Jul 2016 02:14:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa93c1cf-061c-483f-befa-542582baa8e0.jpg">]]></description>
+            <link>https://thegrid.ai/maurine-dodge-photography/33beff22-4bc3-441a-bafb-f8c5dad8273b/index.html</link>
+            <guid isPermaLink="false">33beff22-4bc3-441a-bafb-f8c5dad8273b</guid>
+            <pubDate>Sat, 03 Sep 2016 03:23:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/929c777f-9287-4d6c-8685-e7225d1d956e.jpg">]]></description>
+            <link>https://thegrid.ai/maurine-dodge-photography/4e2d67db-2cef-49b1-a48a-2d0c6b048c6a/index.html</link>
+            <guid isPermaLink="false">4e2d67db-2cef-49b1-a48a-2d0c6b048c6a</guid>
+            <pubDate>Sat, 03 Sep 2016 03:23:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e0600c97-63a3-465c-9466-367915155eae.jpg">]]></description>
+            <link>https://thegrid.ai/maurine-dodge-photography/d44408cf-31c3-4244-8563-90e4ac1a4e7b/index.html</link>
+            <guid isPermaLink="false">d44408cf-31c3-4244-8563-90e4ac1a4e7b</guid>
+            <pubDate>Sat, 03 Sep 2016 03:23:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/01cfc8c7-2e06-4dfe-9314-1b66bb3aa501.jpg">]]></description>
+            <link>https://thegrid.ai/maurine-dodge-photography/5071b7a7-c321-4215-889b-d1cad8255a83/index.html</link>
+            <guid isPermaLink="false">5071b7a7-c321-4215-889b-d1cad8255a83</guid>
+            <pubDate>Sat, 03 Sep 2016 03:22:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/537ab297-e6cd-499e-bd35-816839b09006.jpg">]]></description>
+            <link>https://thegrid.ai/maurine-dodge-photography/6decb916-9e21-4f78-ad32-e74ed2df9a06/index.html</link>
+            <guid isPermaLink="false">6decb916-9e21-4f78-ad32-e74ed2df9a06</guid>
+            <pubDate>Fri, 02 Sep 2016 14:45:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/28aa710b-eb3e-4ea1-bb88-b0a70f6a44de.jpg">]]></description>
+            <link>https://thegrid.ai/maurine-dodge-photography/4c76f7a3-97db-4372-b13a-7f415fb26068/index.html</link>
+            <guid isPermaLink="false">4c76f7a3-97db-4372-b13a-7f415fb26068</guid>
+            <pubDate>Fri, 02 Sep 2016 14:45:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
