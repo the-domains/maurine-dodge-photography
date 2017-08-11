@@ -1,16 +1,16 @@
-typography_spectrum: 0.8122107966337353
+layout_spectrum: 0.6790604507650184
+typography_spectrum: 0.43322535183824745
 color:
-  brandStrength: 0.13552720565348864
-  lightness: 0.5544030617456883
-  saturation: 0.8257049880921841
-  rhythmicContrast: 0.5028293305076659
+  brandStrength: 0.5535828556358299
+  lightness: 0.5136799534832561
+  saturation: 0.4267180012454196
+  rhythmicContrast: 0.6938436271231805
   brandColors:
     - '#332532'
     - '#644D52'
     - '#F77A52'
     - '#FF974F'
     - '#A49A87'
-layout_spectrum: 0.24092386313714087
 analytics:
   google: UA-78600613-1
   facebook: '1788863521350364'
@@ -21,5 +21,11 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2eb158b-a59e-40dd-862f-c323801e3c61.svg
 name: Maurine Dodge Photography
+navigation:
+  - name: Castles
+    id: a1d12c8e-e249-4b9e-8a05-3fa670ef9d6e
+    type: content
 title: Exploring the world and the people in it....
+content: []
 description: capturing moments one click at a time.
+github: true
