@@ -1,4 +1,3 @@
-layout_spectrum: 0.10648459973560628
 typography_spectrum: 0.5422602611207542
 color:
   brandStrength: 0.8826383425528644
@@ -11,6 +10,8 @@ color:
     - '#F77A52'
     - '#FF974F'
     - '#A49A87'
+github: true
+layout_spectrum: 0.10648459973560628
 analytics:
   google: UA-78600613-1
   facebook: '1788863521350364'
@@ -20,6 +21,10 @@ author:
   url: 'https://www.facebook.com/silvatungfox'
 logo: null
 name: Maurine Dodge Photography
+navigation:
+  - name: 'Chicago '
+    url: 'https://thegrid.ai/chicago-82769/?cache=no'
+    type: external
 title: Exploring the world ....
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
@@ -48,4 +53,3 @@ content:
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: ' one click at a time.'
 purpose: []
-github: true
