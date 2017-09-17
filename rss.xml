@@ -1,17 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Exploring the world and the people in it....]]></title>
-        <description><![CDATA[Exploring the world and the people in it....]]></description>
+        <title><![CDATA[Exploring the world ....]]></title>
+        <description><![CDATA[Exploring the world ....]]></description>
         <link>http://maurinedodge.photo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Sep 2017 05:37:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Sep 2017 21:45:39 GMT</lastBuildDate>
         <atom:link href="http://maurinedodge.photo/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Sun, 17 Sep 2017 21:45:30 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e53f3cca-4688-4281-9950-350cd5802634.jpg">]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/e53f3cca-4688-4281-9950-350cd5802634.jpg</link>
             <guid isPermaLink="false">d89bc533-56f2-4a3f-90da-2cef38266fbc</guid>
-            <pubDate>Sun, 17 Sep 2017 05:37:32 GMT</pubDate>
+            <pubDate>Sun, 17 Sep 2017 06:18:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Grid]]></title>
+            <description><![CDATA[<article><h1>The Grid</h1></article>]]></description>
+            <link>http://maurinedodge.photo/the-grid/index.html</link>
+            <guid isPermaLink="false">184234f4-6bb0-4d1a-ad6a-5dfd0562f5be</guid>
+            <pubDate>Sun, 17 Sep 2017 21:45:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Maurine Dodge | GuruShots]]></title>
+            <description><![CDATA[<article><h1>Maurine Dodge | GuruShots</h1><p>Check out the awesome profile of Maurine Dodge on GuruShots, a revolutionary platform that offers photographers a fun, social and educational place</p><img src="https://photos.gurushots.com/unsafe/0x0/85313e8a3b6d55d666f43f429b671064/3_2cfb201c89199f76871c7f7ee3edfc5b.jpg"></article>]]></description>
+            <link>https://gurushots.com/silvatungfox/photos</link>
+            <guid isPermaLink="false">3fe43ee7-03fd-44b3-89c0-0d55168fe95d</guid>
+            <pubDate>Sun, 17 Sep 2017 21:40:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Check out silvatungfox 's profile]]></title>
+            <description><![CDATA[<article><h1>Check out silvatungfox &apos;s profile</h1><p>ViewBug is an online community that promotes, shares and awards photography through contests. We run over 100 photo contest per year. Share your photos. Win Prizes.</p><img src="https://www.viewbug.com/media/mediafiles/2011/04/18/1080070_medium.jpg"></article>]]></description>
+            <link>https://www.viewbug.com/member/silvatungfox#/silvatungfox/photos</link>
+            <guid isPermaLink="false">592d40ce-e904-4871-97d4-5f9d2c61bec3</guid>
+            <pubDate>Sun, 17 Sep 2017 08:04:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Confessions of a "Natural"]]></title>
+            <description><![CDATA[<article><h1>Confessions of a &quot;Natural&quot;</h1><p>This book was put together with genealogists and quilters in mind. 80 pages of photos of quilts by Connie and Maurine Dodge and a few quilts made by a few of their ancestors. This book is also the fund raiser for the author&apos;s needed sight restoration and the continued care needed for the author&apos;s Mother who is living with stage four cancer.</p><img src="http://bookshow.blurb.com/bookshow/cache/P1901770/md/cover_2.jpeg"></article>]]></description>
+            <link>http://www.blurb.com/b/1373813-confessions-of-a-natural</link>
+            <guid isPermaLink="false">b913b87f-b4d5-4ce8-9002-a17967e67693</guid>
+            <pubDate>Sun, 17 Sep 2017 06:14:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
