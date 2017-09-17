@@ -1,16 +1,16 @@
-layout_spectrum: 0.6790604507650184
-typography_spectrum: 0.43322535183824745
+typography_spectrum: 0.7966969132000157
 color:
-  brandStrength: 0.5535828556358299
-  lightness: 0.5136799534832561
-  saturation: 0.4267180012454196
-  rhythmicContrast: 0.6938436271231805
+  brandStrength: 0.28371826710271664
+  lightness: 0.9548167655350511
+  saturation: 0.5156102747687756
+  rhythmicContrast: 0.5586922152060094
   brandColors:
     - '#332532'
     - '#644D52'
     - '#F77A52'
     - '#FF974F'
     - '#A49A87'
+layout_spectrum: 0.3263413355089171
 analytics:
   google: UA-78600613-1
   facebook: '1788863521350364'
@@ -18,10 +18,14 @@ author:
   name: Maurine Dodge
   email: silvatungfox@gmail.com
   url: 'https://www.facebook.com/silvatungfox'
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2eb158b-a59e-40dd-862f-c323801e3c61.svg
+logo: null
 name: Maurine Dodge Photography
-title: Exploring the world and the people in it....
+navigation:
+  - name: Chicago Photos
+    url: >-
+      https://app.thegrid.io/app/site/live?siteID=e546da0d-ada9-4bdc-8e45-b01afe54ca86
+    type: external
+title: Exploring the world ....
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -31,21 +35,21 @@ content:
     src: >-
       https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed307f587f12555cc158a77a205e2a639b9ccaed.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://s3-us-west-2.amazonaws.com'
         name: .s3-us-west-2.amazonaws.com
         favicon: null
         domain: s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: capturing moments one click at a time.
+description: ' one click at a time.'
 github: true
