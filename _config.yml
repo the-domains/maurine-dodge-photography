@@ -52,9 +52,9 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: ' one click at a time.'
-github: true
 purpose:
   - type: external
     url: >-
       https://app.thegrid.io/app/site/live?siteID=e546da0d-ada9-4bdc-8e45-b01afe54ca86
-    label: Chicago Photos
+    label: Chicago
+github: true
