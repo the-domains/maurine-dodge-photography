@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: Behind the scenes
-dateModified: '2017-09-17T22:30:45.494Z'
-datePublished: '2017-09-18T00:12:09.656Z'
+dateModified: '2017-09-18T00:30:30.317Z'
+datePublished: '2017-09-18T00:30:30.881Z'
 title: ''
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-09-18-behind-the-scenes.md
 starred: false
 datePublishedOriginal: '2017-09-18T00:12:09.656Z'
-sourcePath: _posts/2017-09-18-behind-the-scenes.md
 _type: Blurb
 
 ---
