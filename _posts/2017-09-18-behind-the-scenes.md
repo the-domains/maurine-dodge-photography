@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Behind the scenes
-dateModified: '2017-09-18T00:31:07.070Z'
-datePublished: '2017-09-18T00:31:07.617Z'
+dateModified: '2017-09-18T00:32:21.786Z'
+datePublished: '2017-09-18T00:32:22.360Z'
 title: ''
 author: []
 publisher: {}
@@ -13,6 +13,7 @@ datePublishedOriginal: '2017-09-18T00:12:09.656Z'
 _type: Blurb
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/20743e5a-ae18-4c13-9163-b94c0f919a00.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/211baeb5-bec0-4061-9801-11c3ca52f149.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c10b7720-4275-49b2-b40b-9405fad8ca0d.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/15b74b4b-b31b-4dac-a635-c0741a0d3fce.jpg)
