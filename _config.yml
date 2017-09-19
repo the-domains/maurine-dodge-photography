@@ -25,6 +25,9 @@ navigation:
   - name: 'Chicago '
     url: 'https://thegrid.ai/chicago-82769/?cache=no'
     type: external
+  - name: Quilts
+    url: 'https://thegrid.ai/quilts/?cache=no'
+    type: external
 title: Exploring the world ....
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
