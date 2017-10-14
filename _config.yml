@@ -1,26 +1,27 @@
+name: Maurine Dodge Photography
+layout_spectrum: 0.10648459973560628
 typography_spectrum: 0.5422602611207542
+analytics:
+  facebook: '1788863521350364'
+  google: UA-78600613-1
 color:
-  brandStrength: 0.8826383425528644
-  lightness: 0.5878445656898219
-  saturation: 0.2838043847929982
-  rhythmicContrast: 0.7665333621650197
   brandColors:
     - '#332532'
     - '#644D52'
     - '#F77A52'
     - '#FF974F'
     - '#A49A87'
-github: true
-layout_spectrum: 0.10648459973560628
-analytics:
-  google: UA-78600613-1
-  facebook: '1788863521350364'
+  brandStrength: 0.8826383425528644
+  lightness: 0.5878445656898219
+  saturation: 0.2838043847929982
+  rhythmicContrast: 0.7665333621650197
+purpose: []
+title: Exploring the world ....
+description: ' one click at a time.'
 author:
   name: Maurine Dodge
-  email: silvatungfox@gmail.com
   url: 'https://www.facebook.com/silvatungfox'
-logo: null
-name: Maurine Dodge Photography
+  email: silvatungfox@gmail.com
 navigation:
   - name: 'Chicago '
     url: 'https://thegrid.ai/chicago-82769/?cache=no'
@@ -28,7 +29,6 @@ navigation:
   - name: Lady Filmmakers Festival
     url: 'https://thegrid.ai/lady-filmmakers-festival-shelby/?cache=no'
     type: external
-title: Exploring the world ....
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -38,21 +38,17 @@ content:
     src: >-
       https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed307f587f12555cc158a77a205e2a639b9ccaed.jpg
     metadata:
-      datePublished: null
-      keywords: []
-      related: []
-      author: []
-      '@context': 'http://schema.org'
       '@type': MediaObject
-      app_links: []
+      '@context': 'http://schema.org'
+      keywords: []
       publisher:
-        url: 'https://s3-us-west-2.amazonaws.com'
         name: .s3-us-west-2.amazonaws.com
-        favicon: null
         domain: s3-us-west-2.amazonaws.com
+        url: 'https://s3-us-west-2.amazonaws.com'
+      author: []
+      starred: false
       description: ''
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: ' one click at a time.'
-purpose: []
+github: true
